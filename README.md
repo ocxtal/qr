@@ -38,4 +38,7 @@ from source
 	    -b    margin width
 	    -h    print help (this message)
 
+## License
+
+MIT
 
