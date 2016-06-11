@@ -2,7 +2,7 @@
 
 Print QR code on the terminal.
 
-![screenshot](https://github.com/ocxtal/clock/blob/master/screenshot.png)
+![screenshot](https://github.com/ocxtal/qr/blob/master/screenshot.png)
 
 ## Dependency
 
