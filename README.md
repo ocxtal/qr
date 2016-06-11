@@ -2,7 +2,7 @@
 
 Print QR code on the terminal.
 
-![screenshot](https://bitbucket.org/suzukihajime/qr/raw/master/screenshot.png)
+![screenshot](https://github.com/ocxtal/clock/blob/master/screenshot.png)
 
 ## Dependency
 
